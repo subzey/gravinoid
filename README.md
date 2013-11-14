@@ -33,7 +33,7 @@ Move mouse to control gravity center. Hold left mouse button to activate gravita
 
 This might be tricky at first, but I bet, you can handle it in a few minutes.
 
-Ball may leave the screen bottom, but not keep it there for too long as it will be lost.
+Ball may leave the screen bottom, but do not keep it there for too long as it will be lost.
 
 
 Play!
